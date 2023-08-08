@@ -11,7 +11,7 @@ def fun(list1, list2):
 list1 = []
 list2 = []
 
-print("Enter the first list:")
+print("Enter the num:")
 for element in input().split():
     list1.append(element)
 
